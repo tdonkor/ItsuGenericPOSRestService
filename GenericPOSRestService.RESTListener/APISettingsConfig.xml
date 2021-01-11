@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+	<OrderUrl>http://192.168.100.107:8080/order</OrderUrl>
+	<GetStatusUrl>http://192.168.100.107:8080/POS/status/</GetStatusUrl>
+</Configuration>
